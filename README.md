@@ -1,6 +1,6 @@
 # python-tictactoe
 
-A simple tic-tac-toe application written in Python 3.
+I've recently been immersed in JavaScript, React and CSS, and while I took an online Python course a few years back, I wanted to refresh my memory and reinforce the fundamentals.
 
 ## Screenshots
 #### Win condition  
