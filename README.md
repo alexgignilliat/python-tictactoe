@@ -1,6 +1,6 @@
 # python-tictactoe
 
-I've recently been immersed in JavaScript, React and CSS, and while I took an online Python course a few years back, I wanted to refresh my memory and reinforce the fundamentals.
+I've recently been immersed in JavaScript, React and CSS, and while I did take an online Python course a few years back, I wanted to refresh my memory and reinforce the fundamentals.
 
 ## Screenshots
 #### Win condition  
